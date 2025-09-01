@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/image": "^1.11.0",
     "@nuxt/ui": "^3.3.3",
     "@vite-pwa/nuxt": "^1.0.4",
     "nuxt": "^4.0.3",
