@@ -2,5 +2,11 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: ['@nuxt/icon', '@sidebase/nuxt-auth', '@nuxt/image', '@nuxt/eslint'],
+  modules: [
+    '@nuxt/icon',
+    '@sidebase/nuxt-auth',
+    '@nuxt/image',
+    '@nuxt/eslint',
+    '@nuxt/content',
+  ],
 })
